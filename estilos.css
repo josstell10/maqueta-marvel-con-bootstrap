@@ -1,0 +1,9 @@
+.logo img{
+    width: 120px;
+}
+.enlaces-menu li a:hover{
+    color: red !important;
+}
+.sesion-1 div img{
+    height: 600px;
+}
